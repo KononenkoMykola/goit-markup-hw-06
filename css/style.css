@@ -734,6 +734,7 @@ p {
   height: 15px;
   border: 2px solid #000000;
   border-radius: 2px;
+  cursor: pointer;
 }
 .check-line input:checked + .checkbox-agreement::before {
   background-color: #2196f3;
